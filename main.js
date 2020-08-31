@@ -15,7 +15,7 @@ function createWindow() {
       nodeIntegration: true
     },
     width: 600,
-    height: 310,
+    height: 270,
     show: false,
     frame: false,
     resizable: false,
